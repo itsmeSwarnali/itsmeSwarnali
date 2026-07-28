@@ -19,15 +19,16 @@
 
 ## About Me
 
-I build practical data-science and AI solutions—from data preparation and exploratory analysis to model evaluation, APIs, deployment and user-facing applications.
+I am an aspiring Data Scientist with experience transforming raw data into meaningful insights, predictive models and practical data products. My work covers data cleaning, exploratory analysis, feature engineering, statistical modelling, machine learning, model evaluation and deployment.
 
 - 🎓 Pursuing an MSc in **AI & Data Engineering** at **Ca' Foscari University of Venice**
-- 💡 Interested in **Data Science, Machine Learning, NLP, Applied AI and interpretable modelling**
-- 🔬 Experienced in research involving healthcare analytics, biomedical prediction, environmental modelling and data mining
-- 📊 Comfortable working with structured data, text, images and distributed data-processing workflows
-- 🌱 Currently strengthening production-quality Python, Pandas, SQL, testing and reproducible ML workflows
-- 🧠 Currently exploring **Graph Neural Networks for financial-market intelligence**
-- 💼 Open to internships, junior roles and research–industry collaborations in Italy and Europe
+- 📊 Focused on **Data Science**, **statistical analysis**, **machine learning** and **business problem-solving**
+- 🧹 Experienced in data preparation, exploratory data analysis, feature engineering and model interpretation
+- 🤖 Built projects involving classification, regression, NLP, recommender-style analysis and interactive data applications
+- 🔬 Contributed to research in healthcare analytics, biomedical prediction, environmental modelling and data mining
+- 🛠️ Developing production-ready skills in Python, Pandas, SQL, testing, FastAPI and Docker
+- 🧠 Currently exploring Graph Neural Networks for financial-market intelligence
+- 💼 Open to Data Science internships, junior Data Scientist roles and applied research opportunities in Italy and Europe
 
 ---
 
