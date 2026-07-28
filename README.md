@@ -2,7 +2,7 @@
 
 # Hi, I'm Swarnali Mollick 👋
 
-### Data Scientist | Machine Learning | Applied AI
+### Data Scientist | Machine Learning | AI Engineer
 
 **MSc student in AI & Data Engineering at Ca' Foscari University of Venice**
 
