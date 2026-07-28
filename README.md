@@ -1,16 +1,101 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**itsmeSwarnali/itsmeSwarnali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Swarnali Mollick 👋
 
-Here are some ideas to get you started:
+### Data Scientist | Machine Learning | Applied AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**MSc student in AI & Data Engineering at Ca' Foscari University of Venice**
+
+📍 Venice, Italy · Open to Data Science, Machine Learning and Applied AI opportunities
+
+[Portfolio](https://swarnalimollick.vercel.app) ·
+[LinkedIn](https://www.linkedin.com/in/s-mollick/) ·
+[Google Scholar](https://scholar.google.com/citations?user=1savjdEAAAAJ&hl=en) ·
+[Email](mailto:swarnalimollick@gmail.com)
+
+</div>
+
+---
+
+## About Me
+
+I build practical data-science and AI solutions—from data preparation and exploratory analysis to model evaluation, APIs, deployment and user-facing applications.
+
+- 🎓 Pursuing an MSc in **AI & Data Engineering** at **Ca' Foscari University of Venice**
+- 💡 Interested in **Data Science, Machine Learning, NLP, Applied AI and interpretable modelling**
+- 🔬 Experienced in research involving healthcare analytics, biomedical prediction, environmental modelling and data mining
+- 📊 Comfortable working with structured data, text, images and distributed data-processing workflows
+- 🌱 Currently strengthening production-quality Python, Pandas, SQL, testing and reproducible ML workflows
+- 🧠 Currently exploring **Graph Neural Networks for financial-market intelligence**
+- 💼 Open to internships, junior roles and research–industry collaborations in Italy and Europe
+
+---
+
+## Technical Skills
+
+| Area | Technologies |
+|---|---|
+| **Programming** | Python, SQL, R, JavaScript |
+| **Data Analysis** | Pandas, NumPy, Exploratory Data Analysis, Statistics, Feature Engineering |
+| **Machine Learning** | Scikit-learn, XGBoost, Logistic Regression, Random Forest, Model Evaluation |
+| **Deep Learning & AI** | PyTorch, TensorFlow, Transformers, NLP, RAG, Graph Neural Networks |
+| **Data & Distributed Systems** | PySpark, Apriori, SON, ChromaDB |
+| **Applications & Deployment** | FastAPI, Streamlit, Docker, REST APIs |
+| **Visualisation** | Matplotlib, Seaborn, Plotly, Folium |
+| **Development** | Git, GitHub, Jupyter Notebook, VS Code |
+
+---
+
+## Selected Projects
+
+| Project | What I Built | Evidence |
+|---|---|---|
+| **Customer Churn ML API** | Compared Logistic Regression, Random Forest and XGBoost for telecom churn prediction, then served the selected pipeline through FastAPI and Docker. | [Repository](https://github.com/itsmeSwarnali/customer-churn-prediction-with-FastAPI-Docker-Deployment) · ROC-AUC **0.845** |
+| **AI/NLP Learning Assistant** | Built a RAG-based assistant using indexed AI/NLP notes, semantic retrieval, intent classification, conversation history and image analysis. | [Repository](https://github.com/itsmeSwarnali/AI-NLP-learning-Assistant-Chatbot_RAG) · [Live App](https://ai-nlp-learning-assistant.streamlit.app/) |
+| **Retail Sales Prediction** | Analysed more than one million Rossmann sales records, engineered business and calendar features, and compared five regression models. | [Repository](https://github.com/itsmeSwarnali/Retail-Sales-Prediction) |
+| **Air Quality GAM Analysis** | Combined pollution and weather data, investigated missingness, applied PCA-based imputation and modelled nonlinear AQI relationships using Generalized Additive Models. | [Repository](https://github.com/itsmeSwarnali/Air_Quality_Predictor) |
+| **Spark SON Frequent Itemsets** | Implemented distributed frequent-itemset mining with local Apriori, SON passes, candidate pruning and Spark RDD processing. | [Repository](https://github.com/itsmeSwarnali/Frequent_Itemset_Mining_Spark_SON) |
+| **Venice CO₂ Data Explorer** | Developed a multi-page Streamlit application with interactive Plotly visualisations and a Folium-based map of CO₂ observations in Venice. | [Repository](https://github.com/itsmeSwarnali/Venice_CO2_Phase3) |
+
+Explore the complete project collection and detailed case studies on my **[portfolio website](https://swarnalimollick.vercel.app)**.
+
+---
+
+## Research
+
+I have contributed to peer-reviewed research in:
+
+- Healthcare analytics and early disease prediction
+- Biomedical machine learning
+- Environmental and water-quality modelling
+- Association-rule mining and behavioural analysis
+
+📚 [View my publications on Google Scholar](https://scholar.google.com/citations?user=1savjdEAAAAJ&hl=en)
+
+---
+
+## Current Focus
+
+```text
+Data Science foundations        Python · Pandas · SQL · Statistics
+Production-quality projects     Testing · Reproducibility · APIs · Docker
+Advanced exploration            Graph Neural Networks · Financial NLP
+Career direction                Junior Data Scientist · ML/Applied AI roles
+```
+
+---
+
+## Connect With Me
+
+- 🌐 [Portfolio](https://swarnalimollick.vercel.app)
+- 💼 [LinkedIn](https://www.linkedin.com/in/s-mollick/)
+- 📚 [Google Scholar](https://scholar.google.com/citations?user=1savjdEAAAAJ&hl=en)
+- ✉️ [swarnalimollick@gmail.com](mailto:swarnalimollick@gmail.com)
+
+---
+
+<div align="center">
+
+**Building stronger foundations and practical systems—one well-documented project at a time.**
+
+</div>
