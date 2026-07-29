@@ -51,7 +51,7 @@ I am an aspiring Data Scientist with experience transforming raw data into meani
 
 | Project | What I Built | Evidence |
 |---|---|---|
-| **Customer Churn ML API** | Compared Logistic Regression, Random Forest and XGBoost for telecom churn prediction, then served the selected pipeline through FastAPI and Docker. | [Repository](https://github.com/itsmeSwarnali/customer-churn-prediction-with-FastAPI-Docker-Deployment) · ROC-AUC **0.845** |
+| **Customer Churn ML API** | Compared Logistic Regression, Random Forest and XGBoost for telecom churn prediction, then served the selected pipeline through FastAPI and Docker. | [Repository](https://github.com/itsmeSwarnali/customer-churn-prediction-with-FastAPI-Docker-Deployment) |
 | **AI/NLP Learning Assistant** | Built a RAG-based assistant using indexed AI/NLP notes, semantic retrieval, intent classification, conversation history and image analysis. | [Repository](https://github.com/itsmeSwarnali/AI-NLP-learning-Assistant-Chatbot_RAG) · [Live App](https://ai-nlp-learning-assistant.streamlit.app/) |
 | **Retail Sales Prediction** | Analysed more than one million Rossmann sales records, engineered business and calendar features, and compared five regression models. | [Repository](https://github.com/itsmeSwarnali/Retail-Sales-Prediction) |
 | **Air Quality GAM Analysis** | Combined pollution and weather data, investigated missingness, applied PCA-based imputation and modelled nonlinear AQI relationships using Generalized Additive Models. | [Repository](https://github.com/itsmeSwarnali/Air_Quality_Predictor) |
