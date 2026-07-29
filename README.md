@@ -36,10 +36,10 @@ I am an aspiring Data Scientist with experience transforming raw data into meani
 
 | Area | Technologies |
 |---|---|
-| **Programming** | Python, SQL, R, JavaScript |
+| **Programming** | Python, SQL, R |
 | **Data Analysis** | Pandas, NumPy, Exploratory Data Analysis, Statistics, Feature Engineering |
-| **Machine Learning** | Scikit-learn, XGBoost, Logistic Regression, Random Forest, Model Evaluation |
-| **Deep Learning & AI** | PyTorch, TensorFlow, Transformers, NLP, RAG, Graph Neural Networks |
+| **Machine Learning** | Scikit-learn, Model Evaluation |
+| **Deep Learning & AI** | PyTorch, TensorFlow, Transformers, NLP, RAG |
 | **Data & Distributed Systems** | PySpark, Apriori, SON, ChromaDB |
 | **Applications & Deployment** | FastAPI, Streamlit, Docker, REST APIs |
 | **Visualisation** | Matplotlib, Seaborn, Plotly, Folium |
