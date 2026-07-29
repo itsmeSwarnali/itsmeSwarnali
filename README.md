@@ -6,7 +6,7 @@
 
 **MSc student in AI & Data Engineering at Ca' Foscari University of Venice**
 
-📍 Venice, Italy · Open to Data Science, Machine Learning and Applied AI opportunities
+📍 Venice, Italy · Open to Data Science, and Applied AI opportunities
 
 [Portfolio](https://swarnalimollick.vercel.app) ·
 [LinkedIn](https://www.linkedin.com/in/s-mollick/) ·
