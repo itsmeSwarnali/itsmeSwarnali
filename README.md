@@ -19,7 +19,7 @@
 
 ## About Me
 
-I am an aspiring Data Scientist with experience transforming raw data into meaningful insights, predictive models and practical data products. My work covers data cleaning, exploratory analysis, feature engineering, statistical modelling, machine learning, model evaluation and deployment.
+I am an aspiring Data Scientist with experience transforming raw data into meaningful insights, predictive models and practical AI products. My work covers data cleaning, exploratory analysis, feature engineering, statistical modelling, machine learning, model evaluation and deployment. I build intelligent systems that transform raw data into deployable AI applications.
 
 - 🎓 Pursuing an MSc in **AI & Data Engineering** at **Ca' Foscari University of Venice**
 - 📊 Focused on **Data Science**, **statistical analysis**, **machine learning** and **business problem-solving**
