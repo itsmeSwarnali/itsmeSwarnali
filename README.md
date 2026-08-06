@@ -28,7 +28,7 @@ I am an aspiring Data Scientist with experience transforming raw data into meani
 - 🔬 Contributed to research in healthcare analytics, biomedical prediction, environmental modelling and data mining
 - 🛠️ Developing production-ready skills in Python, Pandas, SQL, testing, FastAPI and Docker
 - 🧠 Currently exploring Graph Neural Networks for financial-market intelligence
-- 💼 Open to Data Science internships, junior Data Scientist roles and applied AI Engineering opportunities in Italy and Europe
+- 💼 Open to Data Scientist roles and applied AI Engineering opportunities in Italy and Europe
 
 ---
 
